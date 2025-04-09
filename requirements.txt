@@ -1,3 +1,7 @@
 torch>=1.7.1
 torchvision>=0.8.2
 ninja
+
+h5py~=3.13.0
+pillow~=11.1.0
+scikit-image~=0.25.2
